@@ -10,7 +10,7 @@ public class TypeEx {
         double var6 = 3.14;
         //논리 타입 -> 연산식 결과를 boolean 변수에 저장해 출력
         boolean result1 = (var1 == 111);
-        boolean result2 = (var2 != 123);
+        boolean result2 = (var1 != 123);
         String str = "나는 \"홍길동\" 입니다";
 
 
