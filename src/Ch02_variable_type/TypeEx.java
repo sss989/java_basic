@@ -13,7 +13,6 @@ public class TypeEx {
         boolean result2 = (var1 != 123);
         String str = "나는 \"홍길동\" 입니다";
 
-
         System.out.println("var1은 " + var1);
         System.out.println("var2은 " + var2);
         System.out.println("var3은 " + var3);
