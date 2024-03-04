@@ -6,9 +6,9 @@
 
 | 챕터 | 제목                   | 기간 | 진행 여부 |
 |------|------------------------|------|-----------|
-| 02   | [변수와 타입](https://github.com/sss989/java_basic/tree/main/src/Ch02_variable_type)              |      |           |
-| 03   | 연산자              |      |           |
-| 04   | 조건문과 반복문ㅤㅤㅤㅤㅤㅤㅤ|      |           |
+| 02   | [변수와 타입](https://github.com/sss989/java_basic/tree/main/chapter/Ch02)              |      |           |
+| 03   | [연산자](https://github.com/sss989/java_basic/tree/main/chapter/Ch03)              |      |           |
+| 04   | [조건문과 반복문](https://github.com/sss989/java_basic/tree/main/chapter/Ch04) ㅤㅤㅤㅤㅤㅤㅤ|      |           |
 
 ## PART 02: 객체 지향 프로그래밍
 
