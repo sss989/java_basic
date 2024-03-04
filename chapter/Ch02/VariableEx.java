@@ -1,4 +1,4 @@
-package Ch02_variable_type;
+package Ch02;
 
 class VariableEx {
     public static void main(String[] args) {
