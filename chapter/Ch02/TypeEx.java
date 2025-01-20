@@ -23,5 +23,6 @@ public class TypeEx {
         System.out.println("result2은 " + result2);
         System.out.println("문자열 str은 " + str);
 
+
     }
 }
